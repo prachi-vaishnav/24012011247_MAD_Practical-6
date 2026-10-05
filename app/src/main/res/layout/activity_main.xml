@@ -83,7 +83,7 @@
                 android:layout_marginStart="10dp"
                 android:layout_marginTop="33dp"
                 android:text="create Alarm"
-                app:icon="@drawable/alarm_add"
+                app:icon="@drawable/baseline_alarm_add_24"
                 app:iconTint="#3B85B8"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/text2" />
@@ -94,7 +94,7 @@
                 android:layout_height="wrap_content"
                 android:text="Alaram Cancle"
                 android:textColor="#3B85B8"
-                app:icon="@drawable/alarm_off"
+                app:icon="@drawable/baseline_alarm_off_24"
                 app:layout_constraintBaseline_toBaselineOf="@id/btn1"
                 app:layout_constraintStart_toEndOf="@id/btn1"
                 app:layout_constraintEnd_toEndOf="parent" />
